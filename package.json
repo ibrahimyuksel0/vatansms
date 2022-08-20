@@ -1,0 +1,31 @@
+{
+  "name": "vatansms",
+  "version": "1.0.0",
+  "description": "VatanSMS.net API, nodejs uyumlu bir paketi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/oneton-example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimyuksel0/vatansms.git"
+  },
+  "keywords": [
+    "vatansms",
+    "vatansms.net",
+    "api",
+    "sms"
+  ],
+  "author": "losenly",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibrahimyuksel0/vatansms/issues"
+  },
+  "homepage": "https://github.com/ibrahimyuksel0/vatansms#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
